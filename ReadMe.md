@@ -1,6 +1,6 @@
 # To-do List (Vanilla JS)
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot2.png)
 
 ## Overview
 
